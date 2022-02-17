@@ -1,5 +1,5 @@
-title: Slate theme
-description: Slate is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: Geometry Haxe
+description: Geometry Dash in Haxe, open-sourced.
+show_downloads: false
+google_analytics: false
 theme: jekyll-theme-slate
